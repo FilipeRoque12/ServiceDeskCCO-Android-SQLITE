@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Filipe Roque\Desktop\ServiceDeskCCO-master (1)\ServiceDeskCCO-Android\ServiceDeskCCO.iml" filepath="C:\Users\Filipe Roque\Desktop\ServiceDeskCCO-master (1)\ServiceDeskCCO-Android\ServiceDeskCCO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceDeskCCO-Android.iml" filepath="$PROJECT_DIR$/ServiceDeskCCO-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Filipe Roque\Desktop\ServiceDeskCCO-master (1)\ServiceDeskCCO-Android\app\app.iml" filepath="C:\Users\Filipe Roque\Desktop\ServiceDeskCCO-master (1)\ServiceDeskCCO-Android\app\app.iml" />
+    </modules>
+  </component>
+</project>
